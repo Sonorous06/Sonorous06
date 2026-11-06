@@ -5,7 +5,7 @@
 
 ---
 
-### 💻 Stack Tecnológico y Herramientas
+###  Stack Tecnológico y Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -18,7 +18,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sonorous06&show_icons=true&theme=tokyonight&hide_border=true" />
