@@ -1,9 +1,7 @@
 <div align="center">
   <h1>¡Hola! 👋 Soy Santiagoooooo</h1>
-  <h3>Estudiante de Ingeniería en Sistemas | Aprendiz de todo, experto en nada</h3>
+  <h3>Estudiante de Ingeniería en Sistemas
   
-  <p><br></p>
-
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aprendiz+de+todo,+experto+en+nada;" />
   </p>
