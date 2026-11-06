@@ -42,14 +42,6 @@
 ### Estadísticas y Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonorous06&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonorous06&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonorous06&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -60,6 +52,3 @@
 -  Interesado en el desarrollo de software limpio, la automatización y los fundamentos teóricos de la computación.
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sonorous06&color=36BCF7&style=flat-square" alt="Visitas al perfil" />
-</p>
