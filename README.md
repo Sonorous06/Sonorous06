@@ -1,11 +1,18 @@
 <div align="center">
-  <h1>¡Hola! 👋 Soy SantiagoOO</h1>
-  <h2>Aprendiz de todo, experto en nada</h2>
-  <h3>Estudiante de Ingeniería en Sistemas | Entusiasta del Software y la Inteligencia Artificial</h3>
+  <h1>¡Hola! 👋 Soy Santiagoooooo</h1>
+  <h3>Estudiante de Ingeniería en Sistemas | Aprendiz de todo, experto en nada</h3>
+  
+  <p><br></p>
+
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingeniería+en+Sistemas;Aprendiz+de+todo,+experto+en+nada;Amante+del+código+y+la+Inteligencia+Artificial" />
+  </p>
+
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280px" alt="Cat Hacker GIF">
 
   <p><br></p>
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280px" alt="Cat Hacker GIF">
-    
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonorous06&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 
