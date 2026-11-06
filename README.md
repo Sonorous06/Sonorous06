@@ -2,6 +2,10 @@
   <h1>¡Hola! 👋 Soy SantiagoOO</h1>
   <h2>Aprendiz de todo, experto en nada</h2>
   <h3>Estudiante de Ingeniería en Sistemas | Entusiasta del Software y la Inteligencia Artificial</h3>
+
+  <p><br></p>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280px" alt="Cat Hacker GIF">
+    
 </div>
 
 
