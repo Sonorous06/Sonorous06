@@ -31,14 +31,6 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sonorous06&theme=tokyonight&no-frame=true&margin-w=4&margin-h=4" />
-</p>
-
----
-
 ### Estadísticas y Actividad
 
 <p align="center">
