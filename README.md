@@ -1,14 +1,9 @@
 <div align="center">
   <h1>¡Hola! 👋 Soy SantiagoOO</h1>
-  <h3>Estudiante de Ingeniería en Sistemas | Entusiasta del Software y la Inteligencia Artificial</h3>
   <h2>Aprendiz de todo, experto en nada</h2>
+  <h3>Estudiante de Ingeniería en Sistemas | Entusiasta del Software y la Inteligencia Artificial</h3>
 </div>
 
----
-
-> *"En las arquitecturas complejas y las redes neuronales, la verdadera inteligencia no nace de un especialista absoluto, sino de la gracia colectiva de ser un **aprendiz de todo y experto en nada**."*
-
----
 
 ###  Perspectiva y Enfoque
 -  **Redes Neuronales y Machine Learning:** Fascinado por cómo los sistemas distribuidos aprenden mediante ajustes estocásticos y optimización de pesos sinápticos.
@@ -46,12 +41,7 @@
 
 ---
 
-### ⚡ Sobre mí 
-- 📚 Actualmente cursando la carrera de **Ingeniería en Sistemas**.
-- 🛠️ Interesado en el desarrollo de software limpio, la automatización y los fundamentos teóricos de la computación.
+###  Sobre mí 
+-  Actualmente cursando la carrera de **Ingeniería en Sistemas**.
+-  Interesado en el desarrollo de software limpio, la automatización y los fundamentos teóricos de la computación.
 
-<p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
